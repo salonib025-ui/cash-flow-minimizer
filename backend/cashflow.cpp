@@ -92,7 +92,7 @@ public:
     }
 };
 
-int main() {
+/* int main() {
     int choice;
 
     do {
@@ -133,3 +133,4 @@ int main() {
 
     return 0;
 }
+    */
